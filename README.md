@@ -2,9 +2,9 @@
 <p>
   Hello 👋, I'm Vitor! A Front-End developer! 
 
-  - 🌱 I’m currently graduated from Secondary School with IT Technican at Colégio Estadual Francisco Carneiro Martins.
+  - 🌱 I’m currently in my first year as college student at the UTFPR - Universidade Tecnológica Federal do Paraná.
 
-  - 🔭 I'm currently seeking for a professional opportunity as Front-End Developer Intership to groin in the career and learn about it .
+  - 🔭 I'm currently seeking for a professional opportunity as Programmer Intership or IT Internship to groin in the career and learn about it .
 </p>
 <!-- Dropdown -->
 <details>
