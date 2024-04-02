@@ -1,6 +1,6 @@
 <!-- Presentation -->
 <p>
-  Hello 👋, I'm Vitor! A Front-End developer! 
+  Hello 👋, I'm Vitor! A Fullstack developer! 
 
   - 🌱 I’m currently in my first year as college student at the UTFPR - Universidade Tecnológica Federal do Paraná.
 
