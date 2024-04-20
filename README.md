@@ -4,7 +4,9 @@
 
   - 🌱 I’m currently in my first year as college student at the UTFPR - Universidade Tecnológica Federal do Paraná.
 
-  - 🔭 I'm currently seeking for a professional opportunity as Programmer Intership or IT Internship to groin in the career and learn about it .
+  - 🔭 I'm currently seeking for a professional opportunity as Programmer Intership or IT Internship to groin in the career and learn about it.
+
+  - 🧩 I'm autistic level 1 of support and I need sessions of therapies. 
 </p>
 <!-- Dropdown -->
 <details>
