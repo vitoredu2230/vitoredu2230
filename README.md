@@ -1,20 +1,20 @@
 <!-- Presentation -->
 <p>
-  Hello 👋, I'm Vitor! A Fullstack developer! 
+  Hello 👋, I'm Vitor Eduardo! A college student and Fullstack developer! 
 
-  - 🌱 I’m currently in my first year as college student at the UTFPR - Universidade Tecnológica Federal do Paraná.
+  - 🌱 I’m currently in my second semester in Technology for Internet Systems at the UTFPR - Universidade Tecnológica Federal do Paraná.
 
-  - 🔭 I'm currently seeking for a professional opportunity as Programmer Intership or IT Internship to groin in the career and learn about it.
+  - 💻 I've experienced with the technologies: HTML, CSS, Javascript(ECMAScript 6+), Typescript, PHP, Bootstrap Framework and NGINX web server.
 
-  - 🧩 I'm autistic level 1 of support and I need sessions of therapies. 
+  - 🔭 I'm currently seeking for an professional opportunity as Web Developer(Fullstack or Back-End) Internship to improve my knowledge and my skills .
 </p>
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 19 years old, currently living in Guarapuava, Paraná, Brazil. I have intermediary English, basic Japanese and I've experience with SQL, HTML/CSS, PHP and Database. I'm studying Javascript and GIT
+  - 💬 I'm 20 years old, currently living in Guarapuava, Paraná, Brazil. I've capability to do searching and reading of documents in English, facility for teamwork and in collaborative way.
 
-  - ⚡  I enjoy listen japanese and flashbacks musics, to play guitar, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡  I enjoy listen japanese and flashbacks musics, to play guitar, to learn Japanese, as well as watching animes and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 
 <!-- Links -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoredu.wi@gmail.com)
@@ -33,3 +33,5 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
